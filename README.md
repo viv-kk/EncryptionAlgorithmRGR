@@ -88,7 +88,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/rozetkaimg/encryption_algorithm_rgr
+    git clone https://github.com/viv-kk/EncryptionAlgorithmRGR
     ```
 2.  Соберите проект
     ```bash
